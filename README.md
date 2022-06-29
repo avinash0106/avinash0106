@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @avinash0106
+- 👋 Hi, I’m @Avinash
 - 👀 I’m interested in ... DevOPS
 - 🌱 I’m currently learning ... DevOPS, Python
 - 💞️ I’m looking to collaborate on ... DevOPS
