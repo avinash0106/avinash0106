@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Avinash
 - 👀 I’m interested in ... DevOPS
-- 🌱 I’m currently learning ... DevOPS, Python
+- 🌱 I’m currently learning ... Python
 - 💞️ I’m looking to collaborate on ... DevOPS
 - 📫 How to reach me ...
 
